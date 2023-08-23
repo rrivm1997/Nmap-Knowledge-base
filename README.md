@@ -1,6 +1,5 @@
 # Nmap-Knowledge-base
 
-# Nmap Cheat Sheet
 Reference guide for scanning networks with Nmap.
 
 **Table of Contents**
